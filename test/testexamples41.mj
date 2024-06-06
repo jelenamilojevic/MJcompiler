@@ -1,0 +1,56 @@
+program MJProgram
+const char nesto = 'g', nesto2 = 'Q';
+const char alfa = 'l';
+const int k = 10, m = 30;
+const bool nesto3 = true, drugo = false;
+const char lose = 'c';
+bool tacno;
+int a, b[];
+int c[]; char d;
+{
+  int metoda1(int p, char w[], bool t) 
+  char x; int y;
+  { 
+  print(44);
+  return 1;
+  }
+  
+  int metodax(int x, char c, int niz[]) { return 1;}
+  
+  void metoday() {}
+   
+  void main() 
+  int x[], y,h[];
+  char c;
+  bool netacno;
+  //novtip a;
+  int t, l;
+  char w[], f;
+  {
+    y = 1+9 - metodax(y,c,h);
+    print(y);
+    print(2);
+    print(y+9);
+    //y = metoday();
+    metodax(y,c,h);
+    c = 'C';
+    print(c);
+    print('a');
+    tacno = true;
+    netacno = false;
+    print(tacno);
+    print(false);
+    print(netacno);
+    print(y,1);
+    print(c,1);
+    print(y-1,1);
+    t = -y*2 +1*2;
+    print(t);
+    t = -(2+2)*2+3%2;
+    print(t);
+    t = y;
+    y--;
+    print(t);
+    print(y);
+  }
+}

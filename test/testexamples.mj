@@ -1,0 +1,60 @@
+program MJProgram
+const char nesto = 'g', nesto2 = 'Q';
+const char alfa = 'l';
+const int k = 10, m = 30;
+const bool nesto = true, drugo = false;
+bool tacno;
+int a, b[];
+double c[]; char d;
+{
+  void main(int x, int y, char c[]) 
+  int x[], y;
+  char c;
+  bool netacno;
+  {
+    x = 1*1;
+    y = -2+3*(1+1*5);
+    x++;
+    y--;
+    c = 'A';
+    netacno = false;
+    
+    read(c);
+    x = -5;
+    
+    print(x,1);
+    tacno = b.findAny(1);
+    
+    x = metoda();
+    continue;
+    break;
+    
+    metoda(x[0],y*2);
+    
+    return x+1;
+    
+    {
+      x = 10;
+      metoda(x, 10);
+    }
+    
+    while (x) y = 1;
+    while (x != 7 || y == 3 || 7>8) x++;
+    y.foreach(id => { id++; x =y; } );
+    
+    if (a == b) 
+      if (c!=0) 
+      {
+      } else 
+        if (d!=a) d++;
+          else if (1==0) a++;
+          
+     x = y.findAndReplace(a+1,x=>a*2);
+     
+     
+     niz.foreach(curr => print(curr););
+		niz2 = niz.findAndReplace(jedan + 5, curr => curr * 3);
+		niz2.foreach(curr => print(curr););
+	
+  }
+}

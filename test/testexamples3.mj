@@ -1,0 +1,86 @@
+program MJProgram
+const char nesto = 'g', nesto2 = 'Q';
+const char alfa = 'l';
+const int k = 10, m = 30;
+const bool nesto3 = true, drugo = false;
+const char lose = 'c';
+bool tacno;
+int a, b[];
+int c[]; char d;
+{
+  int metoda1(int p, char w[], bool t) 
+  char x; int y;
+  { 
+  return 0;
+  }
+  
+  int metodax(int x, char c, int niz[]) { return 1;}
+  
+  void metoday() {}
+   
+  void main() 
+  int x[], y,h[];
+  char c;
+  bool netacno;
+  //novtip a;
+  int t, l;
+  char w[], f;
+  {
+     y = 1;
+     y = 1+2;
+     y = 1*1;
+     c = w[y+1];
+     c = f;
+     y++;
+     //y = x[6]++;
+     //x[6] = y++;
+     x[0]++;
+     y--;
+    //y--;
+    c = 'A';
+    netacno = false;
+    
+    read(c);
+    tacno = b.findAny(1);
+    b = new int[10];
+   // c = -'A';
+    
+    nesto3 = false;
+    d = 'D';
+    d = alfa;
+    
+    //netacno = metoda1();
+    x[9] = 2*y;
+    //x[0] = 'c';
+    
+    //metoda1(x[0],y*2);
+    
+    if (c == w[0] && y != 1) x[0]++;
+    
+    
+    if ( b != h ) y = 0;
+    else x[3]++;
+    if (x[0] > y) y++;
+    
+    while (y>0) {
+    break;
+    }
+    
+    x.foreach( y=> h[0] = y;); 
+    print(metoda1,7);
+    read(x[0]);
+    read(metoda1);
+    
+    tacno = w.findAny('c');
+    
+    x = h.findAndReplace(1+1,y => l*2); 
+    
+    //int char niz int
+    metodax(y,c,h);
+    //int, niz char, bool
+    x[0] = metoda1(1, w, tacno);
+    metoday();
+   
+   break;
+  }
+}
